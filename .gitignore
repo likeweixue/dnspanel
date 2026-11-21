@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.trae/
+.screenshots/
+storage/app.lock
+storage/.tmp_*
